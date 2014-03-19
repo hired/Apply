@@ -4,7 +4,7 @@ Well, this isn't quite Soviet Russia, but that's the motto that Hired believes i
 
 ### Stop working with ***non-technical*** "technical" recruiters
 
-We're a software company built by engineers. We are not a recruiting firm. We provide a platform that connects engineers and companies. We've eliminated the need for the middleman and give you direct access to hundreds of employers. 
+We're a software company built by engineers. **We are not a recruiting firm.** We provide a platform that connects engineers and companies. We've eliminated the need for the middleman and give you direct access to hundreds of employers. 
 
 ### How does this work?
 
@@ -15,3 +15,15 @@ We're a software company built by engineers. We are not a recruiting firm. We pr
 During that week, 100's of employers will review your profile. If they see a fit they will request that you interview with. In that interview request, they will disclose **title, salary and equity** 
 
 Is there a company you're interested in but they haven't viewed you? No problem, let us know and will make sure they review it. 
+
+### Who are some of the companies that use Hired?
+
+| Startups   | Mid Size     | Large corporations |
+|---------   |-----------   |--------------------|
+| Octopart   | Square       | Twitter            |
+| LiveOps    | Test 2       | Test 3             |
+
+
+### Not interested, but know someone who might be?
+
+We offer a $1,337 referral fee. Click www.hired.com/create_link to get a personalized link to share with your network!
