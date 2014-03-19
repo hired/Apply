@@ -13,3 +13,6 @@ So, do you want to help us put those pesky non-technical "technical" recruiters 
 Hired.com/apply
 
 But the most exciting part of Hired? Its our Angular and Rails platform. Thats how we can take hundreds of candidates, introduce them to hundreds of employers and all have it work without Johnny recruiter needing to be in the mix.
+
+def test():
+  test
