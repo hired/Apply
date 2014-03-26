@@ -18,10 +18,12 @@ Is there a company you're interested in but they haven't viewed you? No problem,
 
 ### Who are some of the companies that use Hired?
 
-| Startups   | Mid Size     | Large corporations |
-|---------   |-----------   |--------------------|
-| Octopart   | Square       | Twitter            |
-| LiveOps    | Test 2       | Test 3             |
+| Startups   | Mid Size        | Large corporations |
+|---------   |-----------------|--------------------|
+| Mixpanel   | Square          | Twitter            |
+| LiveOps    | ConstantContact | Facebook           |
+| Nextdoor   | Lumosity        | PayPal             |
+| CommandIQ  | One Kings Lane  | LiveNation         |
 
 
 ### Not interested, but know someone who might be?
